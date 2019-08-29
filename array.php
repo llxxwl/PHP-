@@ -10,3 +10,5 @@
     array_unique($arr);      //删除数组中重复的元素
     print_r($arr);
     //对数组排序用sort函数，计算数组中所有值的和用array_num函数
+    
+
